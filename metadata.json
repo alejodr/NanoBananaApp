@@ -1,0 +1,5 @@
+{
+  "name": "NanoCanvas",
+  "description": "A powerful AI image studio powered by Gemini 2.5 Flash Image. Generate new artworks or edit existing photos using natural language prompts.",
+  "requestFramePermissions": []
+}
